@@ -1,0 +1,52 @@
+[
+    {
+      "type": "debit",
+      "comment": "a debit of 50€ from account n°1",
+      "amount": 50.0,
+      "targetAccountNumber": 0
+    },
+    {
+      "type": "credit",
+      "comment": "1500€ on all saving accounts",
+      "amount": 1500.0,
+      "targetAccountNumber": 0
+    },
+    {
+      "type": "credit",
+      "comment": "100.50€ on all current accounts",
+      "amount": 100.5,
+      "targetAccountNumber": 1
+    },
+    {
+      "type": "credit",
+      "comment": "1500€ on all saving accounts",
+      "amount": 1500.0,
+      "targetAccountNumber": 2
+    },
+
+    {
+      "type": "credit",
+      "comment": "100.50€ on all current accounts",
+      "amount": 100.5,
+      "targetAccountNumber": 17
+    },
+    {
+      "type": "credit",
+      "comment": "1500€ on all saving accounts",
+      "amount": 1500.0,
+      "targetAccountNumber": 18
+    },
+    {
+      "type": "credit",
+      "comment": "100.50€ on all current accounts",
+      "amount": 100.5,
+      "targetAccountNumber": 19
+    },
+    {
+      "type": "transfert",
+      "comment": "A transfer of 50 € from account n ° 1 to account n ° 2",
+      "amount": 50.0,
+      "targetAccountNumber": 0,
+      "issuingAccountNumber": 1
+    }
+]

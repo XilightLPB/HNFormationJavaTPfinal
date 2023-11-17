@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<accounts>
+	<account type="currentAccount">
+		<label>Test1</label>
+		<name>Vandm</name>
+		<firstName>JeanClaude</firstName>
+	</account>
+	<account type="currentAccount">
+		<label>Test2</label>
+		<name>Maigne</name>
+		<firstName>Erwan</firstName>
+	</account>
+	<account type="savingsAccount">
+		<label>Test3</label>
+		<name>II</name>
+		<firstName>Elizabeth</firstName>
+	</account>
+</accounts>
